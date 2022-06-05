@@ -9,7 +9,7 @@
   }
 
   h1 {
-    color: #fff;
+    color: #b5a8eb;
     font-size: 56px;
     line-height: 53px;
     margin: 0;
@@ -62,21 +62,21 @@
   }
 
   .flat-button {
-    color: #ffd700;
+    color: #b5a8eb;
     font-size: 13px;
     font-weight: 400;
     letter-spacing: 4px;
     font-family: sans-serif;
     text-decoration: none;
     padding: 10px 18px;
-    border: 1px solid #ffd700;
+    border: 1px solid #b5a8eb;
     margin-top: 25px;
     float: left;
     animation: fadeInAnimation 1s 1.8s backwards;
     white-space: nowrap;
 
     &:hover {
-      background: #ffd700;
+      background: #b5a8eb;
       color: #333;
     }
   }
