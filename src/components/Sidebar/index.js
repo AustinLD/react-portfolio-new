@@ -8,11 +8,11 @@ import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons"
 const Sidebar = () => (
   <>
     <div className="nav-bar">
-      <Link className="logo" to="/react-portfolio">
+      <Link className="logo" to="/">
         <img src={LogoA} alt="logo" />
       </Link>
       <nav>
-        <NavLink exact="true" activeclassname="active" to="/react-portfolio">
+        <NavLink exact="true" activeclassname="active" to="/">
           <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
         </NavLink>
 
